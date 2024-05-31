@@ -17,6 +17,7 @@ Before running this script, ensure that you have Python installed on your system
 
 ```bash
 pip install transliterate
+```
 
 ## Usage
 
