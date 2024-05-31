@@ -22,7 +22,9 @@ pip install transliterate
 ## Usage
 
 Modify the path variable in the script to point to the directory you want to organize:
-- **path = "C:\\path_to_your_directory"**
+```bash
+path = "C:\\path_to_your_directory"
+```
 
 ## Directory Structure
 
